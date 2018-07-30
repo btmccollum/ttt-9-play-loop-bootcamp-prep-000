@@ -36,10 +36,15 @@ def turn(board)
 end
 
 # Define your play method below
+<<<<<<< HEAD
 def play(board)
  counter = 0
  while counter <= 8
     turn(board)
     counter += 1
   end
+=======
+def play()
+  
+>>>>>>> 485dbaa73b5d4c46db056d5574882961e9bdda56
 end
